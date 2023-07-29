@@ -87,7 +87,7 @@ continueButton.addEventListener("click", function() {
 })
 
 $(document).ready(function(){
-  $('#input-number').mask('0000 0000 0000 0000');
+
   $('#input-month').mask('00');
   $('#input-year').mask('00');
   $('#input-cvc').mask('000');
